@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Saúde Móvel</string>
+
+    <string name="action_settings">Configurações</string>
+    <string name="title_activity_login">Bem-vindo!</string>
+    <string name="title_activity_pacientes_bairro">Pacientes</string>
+    <string name="title_activity_paciente_detalhe">Detalhes Paciente</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_configuracoes">Configuracões</string>
+
+
+</resources>
